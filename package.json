@@ -21,9 +21,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "airbnb",
-      "prettier"
+      "react-app"
     ]
   },
   "browserslist": {

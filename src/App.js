@@ -8,13 +8,13 @@ function App() {
     console.log(value);
   }, []);
 
-  return (
-    <div className="App">
-      <ul>
-        <li>asdf</li>
-      </ul>
-    </div>
-  );
-}
+      return (
+          <div>
+            <ul>
+          <li>asdf</li>
+        </ul>
+      </div>
+    );
+  }
 
 export default App;

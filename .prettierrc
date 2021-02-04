@@ -4,5 +4,4 @@
     "semi": true,
     "singleQuote": true,
     "printWidth": 80,
-    //"useTabs": false,  // 문서정리시 tab정렬도 포함할지?
 }
